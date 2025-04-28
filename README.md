@@ -233,35 +233,8 @@ noldabam/                           # 프로젝트 루트 디렉토리
 ├── server/                      # 백엔드 서버 코드
 │   ├── upload_files/           # 업로드된 파일 저장소
 │   ├── router/                 # API 라우터
-│   │   ├── memberRouter.js     # 회원 관련 라우트
-│   │   ├── paymentRouter.js    # 결제 관련 라우트
-│   │   ├── reviewRouter.js     # 리뷰 관련 라우트
-│   │   ├── orderRouter.js      # 주문 관련 라우트
-│   │   ├── accOrderRouter.js   # 숙박 주문 관련 라우트
-│   │   ├── themeOrderRouter.js # 테마/공연 주문 관련 라우트
-│   │   ├── uploadRouter.js     # 파일 업로드 라우트
-│   │   ├── couponRouter.js     # 쿠폰 관련 라우트
-│   │   ├── chatRouter.js       # 채팅 관련 라우트
-│   │   ├── adminRouter.js      # 관리자 관련 라우트
-│   │   ├── kopisRouter.js      # KOPIS API 라우트
-│   │   ├── accommodationRouter.js  # 숙박 관련 라우트
-│   │   └── themeRouter.js      # 테마/공연 관련 라우트
 │   ├── repository/             # 데이터베이스 접근 계층
 │   ├── controller/             # 비즈니스 로직 처리
-│   │   ├── memberController.js     # 회원 관리 컨트롤러
-│   │   ├── couponController.js     # 쿠폰 관리 컨트롤러
-│   │   ├── orderController.js      # 주문 관리 컨트롤러
-│   │   ├── paymentController.js    # 결제 처리 컨트롤러
-│   │   ├── accOrderController.js   # 숙박 주문 컨트롤러
-│   │   ├── themeOrderController.js # 테마/공연 주문 컨트롤러
-│   │   ├── themeReviewController.js # 테마 리뷰 컨트롤러
-│   │   ├── reviewController.js     # 리뷰 관리 컨트롤러
-│   │   ├── chatController.js       # 채팅 기능 컨트롤러
-│   │   ├── uploadController.js     # 파일 업로드 컨트롤러
-│   │   ├── adminController.js      # 관리자 기능 컨트롤러
-│   │   ├── kopisController.js      # KOPIS API 컨트롤러
-│   │   ├── accommodationController.js  # 숙박 관리 컨트롤러
-│   │   └── themeController.js      # 테마/공연 관리 컨트롤러
 │   ├── node_modules/           # npm 패키지들
 │   ├── firebase/               # Firebase 관련 설정
 │   ├── middleWare/             # 미들웨어 함수들
@@ -271,9 +244,6 @@ noldabam/                           # 프로젝트 루트 디렉토리
 │   ├── hashPassword.js         # 비밀번호 해싱 유틸리티
 │   └── .gitignore              # Git 제외 파일 목록
 ├── sql/                        # 데이터베이스 관련 파일들
-│   └── noldabam.sql            # 데이터베이스
-├── 키 백업/                     # API 키 백업 디렉토리
-├── 설치.txt                     # 설치 가이드
 ├── README.md                   # 프로젝트 문서
 ```
 
