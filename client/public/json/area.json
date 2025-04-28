@@ -1,0 +1,64 @@
+{
+    "area": [
+        {
+            "code": "11",
+            "description": "서울"
+        },
+        {
+            "code": "28",
+            "description": "인천"
+        },
+        {
+            "code": "30",
+            "description": "대전"
+        },
+        {
+            "code": "27",
+            "description": "대구"
+        },
+        {
+            "code": "29",
+            "description": "광주"
+        },
+        {
+            "code": "26",
+            "description": "부산"
+        },
+        {
+            "code": "31",
+            "description": "울산"
+        },
+        {
+            "code": "36",
+            "description": "세종"
+        },
+        {
+            "code": "41",
+            "description": "경기"
+        },
+        {
+            "code": "43|44",
+            "description": "충청"
+        },
+        {
+            "code": "47|48",
+            "description": "경상"
+        },
+        {
+            "code": "45|46",
+            "description": "전라"
+        },
+        {
+            "code": "51",
+            "description": "강원"
+        },
+        {
+            "code": "50",
+            "description": "제주"
+        },
+        {
+            "code": "UNI",
+            "description": "대학로"
+        }
+    ]
+}

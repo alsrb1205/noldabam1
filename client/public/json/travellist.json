@@ -1,0 +1,52 @@
+[
+  {
+    "city": "서울",
+    "image": "/images/travel/seoul.png",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "제주",
+    "image": "/images/travel/jeju.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "부산",
+    "image": "/images/travel/busan.png",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "포항",
+    "image": "/images/travel/pohang.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "강릉",
+    "image": "/images/travel/gangreung.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "경주",
+    "image": "/images/travel/gyeongju.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "여수",
+    "image": "/images/travel/yeosu.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "전주",
+    "image": "/images/travel/jeonju.webp",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "속초",
+    "image": "/images/travel/sokcho.jpg",
+    "textcolor": "text-white"
+  },
+  {
+    "city": "가평",
+    "image": "/images/travel/gapyeong.jpg",
+    "textcolor": "text-white"
+  }
+]

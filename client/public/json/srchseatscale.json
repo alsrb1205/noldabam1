@@ -1,0 +1,32 @@
+{
+    "srchseatscale": [
+        {
+            "code": "0",
+            "description": "0석(미상)"
+        },
+        {
+            "code": "100",
+            "description": "1~300석 미만"
+        },
+        {
+            "code": "300",
+            "description": "300~500석 미만"
+        },
+        {
+            "code": "500",
+            "description": "500~1000석 미만"
+        },
+        {
+            "code": "1000",
+            "description": "1000~5000석 미만"
+        },
+        {
+            "code": "5000",
+            "description": "5000~10000석 미만"
+        },
+        {
+            "code": "10000",
+            "description": "10000석 이상"
+        }
+    ]
+}

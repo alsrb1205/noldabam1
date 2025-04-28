@@ -1,0 +1,64 @@
+/* 📦 전체 달력 컨테이너 둥글게 */
+.react-datepicker {
+  border-radius: 1rem !important;
+  border: none !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
+
+/* 📆 헤더 (월/년도) 둥글게 + 중앙 정렬 */
+.react-datepicker__header {
+  background-color: white;
+  border-bottom: none;
+  border-radius: 1rem 1rem 0 0;
+}
+
+/* 📅 날짜 셀 기본 스타일 */
+.react-datepicker__day {
+  border-radius: 5px !important;
+  transition: all 0.2s ease;
+}
+
+/* ✅ 선택된 날짜 (start, end) */
+.react-datepicker__day--selected,
+.react-datepicker__day--range-start,
+.react-datepicker__day--range-end {
+  background-color: #4f46e5 !important; /* violet-600 */
+  color: white !important;
+  font-weight: 600;
+  border-radius: 9999px !important;
+}
+
+/* ✅ 범위 내 날짜 */
+.react-datepicker__day--in-range,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--keyboard-selected
+ {
+  background-color: #e0e7ff !important; /* violet-100 */
+  color: #3730a3 !important;            /* violet-800 */
+}
+
+/* ☀️ 오늘 날짜 */
+.react-datepicker__day--today {
+  border: 1px solid #c084fc; /* violet-400 */
+  font-weight: 500;
+}
+
+/* 🖱️ Hover */
+.react-datepicker__day:hover {
+  background-color: #ede9fe !important; /* violet-50 */
+  color: #4c1d95 !important;
+}
+
+/* ❌ 취소 버튼 */
+.react-datepicker__close-icon::after {
+  background-color: black;
+}
+
+/* 📌 네비게이션 버튼 (이전/다음) */
+.react-datepicker__navigation {
+  top: 1.3rem;
+}
+.react-datepicker__navigation-icon::before {
+  border-color: #6b7280 !important; /* gray-500 */
+}

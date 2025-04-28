@@ -1,0 +1,51 @@
+.inner {
+  width: 100%;
+  max-width: 1480px;
+  margin: 0 auto;
+  position: relative;
+}
+/* 운하정보  */
+.single-line-timeline {
+  position: relative;
+  height: 2px;
+  background-color: #1473e6;
+  flex: 1;
+  margin: 0 8px;
+}
+
+.single-line-timeline::before,
+.single-line-timeline::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 13px;
+  height: 13px;
+  background: #fff;
+  border: 3px solid #1473e6;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.single-line-timeline::before {
+  left: 0;
+}
+
+.single-line-timeline::after {
+  right: 0;
+}
+
+.plane-icon-on-line {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 3;
+  width: 45px;
+  height: 35px;
+}
+
+/* reCAPTCHA  */
+.recaptcha-hidden {
+  display: none;
+}

@@ -1,0 +1,16 @@
+{
+    "ststype": [
+        {
+            "code": "month",
+            "description": "월별"
+        },
+        {
+            "code": "week",
+            "description": "주별"
+        },
+        {
+            "code": "day",
+            "description": "일별"
+        }
+    ]
+}

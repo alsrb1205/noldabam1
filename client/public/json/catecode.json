@@ -1,0 +1,48 @@
+{
+    "catecode": [
+        {
+            "code": "AAAA",
+            "description": "연극"
+        },
+        {
+            "code": "GGGA",
+            "description": "뮤지컬"
+        },
+        {
+            "code": "CCCA",
+            "description": "서양음악(클래식)"
+        },
+        {
+            "code": "CCCC",
+            "description": "한국음악(국악)"
+        },
+        {
+            "code": "CCCD",
+            "description": "대중음악"
+        },
+        {
+            "code": "BBBC",
+            "description": "무용(서양/한국무용)"
+        },
+        {
+            "code": "BBBR",
+            "description": "대중무용"
+        },
+        {
+            "code": "EEEB",
+            "description": "서커스/마술"
+        },
+        {
+            "code": "EEEA",
+            "description": "복합"
+        },
+        {
+            "code": "KID",
+            "description": "아동"
+        },
+        {
+            "code": "OPEN",
+            "description": "오픈런"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+.cardslider {
+  max-width: 900px;
+  padding: 50px;
+}
+
+/* 데스크탑: 슬라이드 컨테이너 800×450, 이미지 절대 위치로 중앙 정렬 */
+.cardslider .swiper-slide {
+  position: relative;
+  width: 800px;
+  height: 450px;
+  overflow: hidden;
+  border-radius: 30px;
+}
+
+.cardslider .swiper-slide img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 800px;   /* 원본 너비 */
+  height: 450px;  /* 원본 높이 */
+  transform: translate(-50%, -0%);
+  object-fit: cover;
+  object-position: center 0%;
+}
+

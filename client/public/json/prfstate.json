@@ -1,0 +1,16 @@
+{
+    "prfstate": [
+        {
+            "code": "01",
+            "description": "공연예정"
+        },
+        {
+            "code": "02",
+            "description": "공연중"
+        },
+        {
+            "code": "03",
+            "description": "공연완료"
+        }
+    ]
+}

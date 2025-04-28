@@ -1,0 +1,32 @@
+{
+    "fcltychartr": [
+        {
+            "code": "1",
+            "description": "중앙정부"
+        },
+        {
+            "code": "2",
+            "description": "문예회관"
+        },
+        {
+            "code": "3",
+            "description": "기타(공공)"
+        },
+        {
+            "code": "4",
+            "description": "대학로"
+        },
+        {
+            "code": "5",
+            "description": "민간(대학로 외)"
+        },
+        {
+            "code": "6",
+            "description": "기타(해외등)"
+        },
+        {
+            "code": "7",
+            "description": "기타(비공연장)"
+        }
+    ]
+}
