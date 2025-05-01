@@ -44,7 +44,7 @@
 
 ## ⚙️ **개발 환경 및 기술 스택**
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### 🛠️ Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### 🤝 Collaboration
+### Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🧩 Libraries & Tools
+### Libraries & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
@@ -244,15 +244,15 @@ noldabam/                           # 프로젝트 루트 디렉토리
 
 ![detail](https://github.com/user-attachments/assets/553e1cbf-bbd5-4855-b26a-c109a4f71098) ㅇ
 
-#### 좌석 예약 페이지
+### 7️⃣ 좌석 예약 페이지
 
 ![seat](https://github.com/user-attachments/assets/2c80642c-7373-463c-9fd4-d1c41d857f5d)
 
-### 7️⃣ 리뷰 페이지
+### 8️⃣ 리뷰 페이지
 
 ![review](https://github.com/user-attachments/assets/1af0bc09-0cc6-4832-b9d7-c8bf5a2dc820)
 
-### 8️⃣ 관리자 페이지
+### 9️⃣ 관리자 페이지
 
 ![admin](https://github.com/user-attachments/assets/fd041ee2-d5aa-4250-8e58-a5b6da3298cc)
 
