@@ -44,7 +44,7 @@
 
 ## ⚙️ **개발 환경 및 기술 스택**
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 ---
 
-### 🛠️ Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
@@ -68,7 +68,7 @@
 
 ---
 
-### 🤝 Collaboration
+### Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🧩 Libraries & Tools
+### Libraries & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>
@@ -109,8 +109,8 @@
   - 비밀번호 유효성 검사
   - 이메일 인증
 - **아이디/비밀번호 찾기**:
-  - 이메일 기반 아이디 찾기
-  - 휴대폰 인증 기반 비밀번호 재설정
+  - 이메일 인증 기반 아이디 찾기
+  - 이메일 인증 기반 비밀번호 재설정
 - **마이페이지**:
   - 프로필 관리 (이름, 연락처, 이메일 수정)
   - 회원 등급 및 포인트 조회
@@ -148,7 +148,7 @@
 
 ### 🖼 **코딩 컨벤션**
 
-![코딩컨벤션](https://github.com/user-attachments/assets/52bd8064-c43d-423a-9e4d-c131a6c99514)
+![codingConvention](https://github.com/user-attachments/assets/85e78df8-0437-4751-b26f-309143a5a196)
 
 ### 🗂️ **개발 폴더 구조도**
 
@@ -193,15 +193,21 @@ noldabam/                           # 프로젝트 루트 디렉토리
 ```
 
 ### 💾 **ERD**
+
 #### MySQL
-![erd](https://github.com/user-attachments/assets/16878393-e140-4cd0-856b-7da96d01a28e)
+
+![erd](https://github.com/user-attachments/assets/27461712-961c-4e01-83c2-196a190dbdd2)
+
 - MySQL은 멤버, 주문 등 구조화된 핵심 데이터를 저장하여 안정성과 관계형 데이터 관리를 담당
 
 #### FireBase
-![firebase](https://github.com/user-attachments/assets/5bf3392d-8f5e-47dd-8ab7-45fdf61d6b64)
+
+![firebase](https://github.com/user-attachments/assets/b1ad5367-996f-43ce-b88b-2023330a7a7c)
+
 - Firebase는 리뷰, 쿠폰처럼 읽기·쓰기 빈도가 높고 실시간 반영이 필요한 데이터를 저장하여 빠른 응답성과 유연성을 확보
 
 ### 🚩 **배포 환경**
+
 ![배포](https://github.com/user-attachments/assets/c4c821df-5c42-4f96-b4a4-d9141f39f238)
 
 ---
@@ -215,9 +221,11 @@ noldabam/                           # 프로젝트 루트 디렉토리
 ### 2️⃣ 마이페이지 / 회원설정 / 회원탈퇴
 
 #### 마이페이지
+
 ![mypage](https://github.com/user-attachments/assets/9ec5928f-3e97-467f-a59c-577750627118)
 
 #### 회원설정 / 회원탈퇴
+
 ![userSetting](https://github.com/user-attachments/assets/9ef13eec-cc32-4974-b886-a5a0b8a3fcf1)
 
 ### 3️⃣ 메인페이지
@@ -236,15 +244,15 @@ noldabam/                           # 프로젝트 루트 디렉토리
 
 ![detail](https://github.com/user-attachments/assets/553e1cbf-bbd5-4855-b26a-c109a4f71098) ㅇ
 
-#### 좌석 예약 페이지
+### 7️⃣ 좌석 예약 페이지
 
 ![seat](https://github.com/user-attachments/assets/2c80642c-7373-463c-9fd4-d1c41d857f5d)
 
-### 7️⃣ 리뷰 페이지
+### 8️⃣ 리뷰 페이지
 
 ![review](https://github.com/user-attachments/assets/1af0bc09-0cc6-4832-b9d7-c8bf5a2dc820)
 
-### 8️⃣ 관리자 페이지
+### 9️⃣ 관리자 페이지
 
 ![admin](https://github.com/user-attachments/assets/fd041ee2-d5aa-4250-8e58-a5b6da3298cc)
 
