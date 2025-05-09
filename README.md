@@ -260,7 +260,9 @@ noldabam/                           # 프로젝트 루트 디렉토리
 
 ### 🔟 AI 챗봇
 
-![chatbot](https://github.com/alsrb1205/noldabam1/issues/2)
+![Image](https://github.com/user-attachments/assets/371940b8-8e29-4693-a2bf-6486c70652ae)
+
+![Image](https://github.com/user-attachments/assets/cf6fa240-204a-4b4a-9e08-32275b5cdbd5)
 
 
 ---
